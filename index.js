@@ -1,4 +1,4 @@
 
-function divide(num1){
-  return num1/100
+function divide(){
+  return 2000/100
 }
